@@ -1,0 +1,1 @@
+node dependencies/beautify.js
