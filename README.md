@@ -10,7 +10,7 @@ Originally written by Stravant, rewritten by Herrtt#3868 and changed by Sypse#60
 
 Download and extract this project
 Paste your script in (*input.lua*)
-& open beautify.bat
+& open (*beautify.bat*)
 
 
 after this your script will appear in (*output.lua*)
